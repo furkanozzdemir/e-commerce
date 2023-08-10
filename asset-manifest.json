@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/https//furkanozzdemir.github.io/e-commerce/static/css/main.06b08859.css",
+    "main.js": "/https//furkanozzdemir.github.io/e-commerce/static/js/main.fbd65da0.js",
+    "index.html": "/https//furkanozzdemir.github.io/e-commerce/index.html",
+    "static/media/microchip-solid.svg": "/https//furkanozzdemir.github.io/e-commerce/static/media/microchip-solid.20850f4238817ff76a05079281831707.svg",
+    "static/media/basket.svg": "/https//furkanozzdemir.github.io/e-commerce/static/media/basket.825f1dd1567cce1662337c57ef9ef303.svg",
+    "static/media/house-chimney-solid.svg": "/https//furkanozzdemir.github.io/e-commerce/static/media/house-chimney-solid.b57d11eb5bf8f29f40da99a62fad8fe6.svg",
+    "static/media/gem-solid.svg": "/https//furkanozzdemir.github.io/e-commerce/static/media/gem-solid.51a6ec2d441a2bd1f41209a3ed995a0a.svg",
+    "static/media/person-dress-solid.svg": "/https//furkanozzdemir.github.io/e-commerce/static/media/person-dress-solid.89ee3457f8b77d58229f62f45110b577.svg",
+    "static/media/person-solid.svg": "/https//furkanozzdemir.github.io/e-commerce/static/media/person-solid.141b84f3a792d7336cb16008d4ff6d69.svg",
+    "main.06b08859.css.map": "/https//furkanozzdemir.github.io/e-commerce/static/css/main.06b08859.css.map",
+    "main.fbd65da0.js.map": "/https//furkanozzdemir.github.io/e-commerce/static/js/main.fbd65da0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.06b08859.css",
+    "static/js/main.fbd65da0.js"
+  ]
+}
